@@ -2,7 +2,7 @@ title: "The Nordan archives"
 email: bsm@hi.is
 preposition: at
 description: >-
-baseurl: "/archive" # the subpath of your site, e.g. /blog
+baseurl: "/archives" # the subpath of your site, e.g. /blog
 url: "https://nordan-conference.github.io" # the base hostname & protocol for your site, e.g. https://example.com
 
 # Build settings
@@ -40,7 +40,7 @@ conference:
     logo:
 #      name: Nordan
       #img: 'compass-icon.svg' # inside /assets/images/
-      url: 'https://nordan-conference.github.io/archive'
+      url: 'https://nordan-conference.github.io/archives'
     breakpoint: md
     links:
         - name: 2025

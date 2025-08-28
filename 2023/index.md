@@ -9,5 +9,3 @@ Organizers:
 - Frank Wikström, Lund University
 - Mårten Nilsson, Lund University
 
-- [Brochure](/2024/2024.pdf) 
-

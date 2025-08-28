@@ -1,4 +1,4 @@
-title: Nordan 2025
+title: "The Nordan archives"
 email: bsm@hi.is
 preposition: at
 description: >-
@@ -24,7 +24,6 @@ exclude:
 # Collections and their defaults
 # who needs them
 
-
 conference:
 
   # Language
@@ -44,16 +43,14 @@ conference:
       url: 'https://nordan-conference.github.io/archive'
     breakpoint: md
     links:
-      - name: Previous Editions of Nordan
-        menu:
-          - name: 2025
-            relative_url: /2025/
-          - name: 2024
-            relative_url: /2024/
-          - name: 2023
-            relative_url: /2023/
-          - name: 1997-2019
-            relative_url: /1997-2019/
+        - name: 2025
+          relative_url: /2025/
+        - name: 2024
+          relative_url: /2024/
+        - name: 2023
+          relative_url: /2023/
+        - name: 1997-2019
+          relative_url: /1997-2019/
 
 
   # Link Preview for Sharing
@@ -67,7 +64,7 @@ conference:
   # Main landing page
   main:
     logo:
-      img: 'full-logo.svg'
+      img: '1997-Trosa.jpg'
     links:
       #- name: Program
       #  relative_url: /program/

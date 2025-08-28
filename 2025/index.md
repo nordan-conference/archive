@@ -19,11 +19,11 @@ The organizers of Nordan 2025 were:
 
 
   [Website for Nordan 2025](/nordan-2025)\
-  [Booklet for Nordan 2025](/2025/2025-nordan-booklet.pdf)\
+  [Booklet for Nordan 2025](2025-nordan-booklet.pdf)\
   [Website for KAUS 2025](/nordan-2025/kaus)\
-  [Booklet for KAUS 2025](/2025/2025-kaus-booklet.pdf)
+  [Booklet for KAUS 2025](2025-kaus-booklet.pdf)
 
 
-![Stracta](/2025/Stracta.JPG)
-![Valahnukur1](/2025/IMG_5419.JPG)
-![Valahnukur2](/2025/IMG_0457.JPG)
+![Stracta](Stracta.JPG)
+![Valahnukur1](IMG_5419.JPG)
+![Valahnukur2](IMG_0457.JPG)

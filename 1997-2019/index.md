@@ -3,9 +3,6 @@ layout: default
 ---
 
 
-[![1997 - Trosa](/assets/images/1997-Trosa.jpg)](https://nordan-conference.github.io/assets/images/1997-Trosa.jpg)
-*The participants of the first Nordan in Trosa 1997*
-
 ## 2019	Lunteren, Netherlands
 
 Organized by the University of Amsterdam.
@@ -114,7 +111,7 @@ Organized by the University of Oslo.\\
 ## 2000	Örnköldsvik, Sweden
 
 Organized by the Mid Sweden University and Umeå University.\\
-[Program](2000-nordanprogram.pdf)\\
+[Program](2000-nordan-program.pdf)\\
 [Booklet](2000-nordan-booklet.pdf)
 
 ## 1999	Saltsjöbaden, Sweden

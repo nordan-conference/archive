@@ -19,5 +19,5 @@ Organization:
 - Per Åhag, Umeå
 
 - [Homepage](https://www.miun.se/en/Research/subject-research/mathematics/nordic-complex-analysis-meeting-2024/)
-- [Pamphlets: Nordan](/2024/2024-nordan.pdf) 
-- [Pamphlets: Kaus](/2024/2024-kaus.pdf) 
+- [Pamphlets: Nordan](./2024-nordan.pdf) 
+- [Pamphlets: Kaus](./2024-kaus.pdf) 

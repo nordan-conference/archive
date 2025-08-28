@@ -33,3 +33,7 @@ source "https://rubygems.org"
 #gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 #gem "minimal-mistakes-jekyll"
+
+gem "webrick"
+gem "jekyll-watch"
+gem "kramdown-parser-gfm"

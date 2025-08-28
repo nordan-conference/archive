@@ -41,23 +41,11 @@ conference:
     logo:
 #      name: Nordan
       #img: 'compass-icon.svg' # inside /assets/images/
-      url: 'https://nordan-conference.github.io/'
+      url: 'https://nordan-conference.github.io/archive'
     breakpoint: md
     links:
-      - name: Photos
-        relative_url: /photos/
-      - name: Booklets and Program
-        relative_url: /program/
-      - name: Location
-        relative_url: /location/
-      - name: KAUS
-        relative_url: /kaus/
-      - name: Registration
-        relative_url: /registration/
       - name: Previous Editions of Nordan
         menu:
-          - name: (current)
-            disabled: true
           - name: 2025
             relative_url: /2025/
           - name: 2024
@@ -151,28 +139,4 @@ conference:
 
     # Show intermediary time steps (next to full hours)
     show_alltimes: true
-
-  kaus:
-    logo:
-      img: 'kaus.svg'
-    url: /kaus
-    title: KAUS 2025
-    navigation:
-      links:
-        - name: Program
-          relative_url: /kaus/program/
-          activatable: true
-        - name: Participants
-          relative_url: /kaus/participants/
-          activatable: true
-        - name: Location
-          relative_url: /kaus/location/
-          activatable: true
-        - name: NORDAN
-          relative_url: /
-          activatable: false
-        - name: Previous Editions of KAUS
-          relative_url: /kaus/previous-editions/
-          activatable: true
-
 

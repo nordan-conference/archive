@@ -39,7 +39,6 @@ conference:
   navigation:
     logo:
 #      name: Nordan
-      #img: 'compass-icon.svg' # inside /assets/images/
       url: 'https://nordan-conference.github.io/archives'
     breakpoint: md
     links:
